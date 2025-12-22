@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Reja fayli
+reja.txt
+
+# History papkasi
+.history/
+history/
